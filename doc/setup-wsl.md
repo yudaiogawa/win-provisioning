@@ -61,6 +61,19 @@ Docker公式がおすすめしている方法でインストールする。
 
 <br>
 
+## Use ZSH
+
+Install zshell:
+
+```shell
+sudo apt-get install zsh
+```
+
+- Switch default shell to zsh.
+- Create .zshrc using dotfile repository.
+
+<br>
+
 ## Create SSH key
 
 refs. [Create SSH key](./setup-win.md#create-ssh-key)

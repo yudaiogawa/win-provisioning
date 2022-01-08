@@ -7,19 +7,6 @@ Windows no setup wok ait ekini :)
 
 <br>
 
-## ZSH
-
-Install zshell:
-
-```shell
-sudo apt-get install zsh
-```
-
-- Switch default shell to zsh.
-- Create .zshrc using dotfile repository.
-
-<br>
-
 ## Create SSH Key
 
 Setup:
